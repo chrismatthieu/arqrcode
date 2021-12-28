@@ -1,0 +1,11 @@
+Model Information:
+* title:	Santa Claus
+* source:	https://sketchfab.com/3d-models/santa-claus-0def7190de45453983a0302e13476e3f
+* author:	Charles Smith (Blitz Mobile Apps) (https://sketchfab.com/BlitzMobileApp)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Santa Claus" (https://sketchfab.com/3d-models/santa-claus-0def7190de45453983a0302e13476e3f) by Charles Smith (Blitz Mobile Apps) (https://sketchfab.com/BlitzMobileApp) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
